@@ -1,8 +1,8 @@
 # Olá bem-vindo ao meu perfil 🙌
 
 ## SOBRE MIM
-Meu nome é Celso Matias. Estou embarcando no mundo da tecnologia, tendo um grande interesse pela área de desenvolvimento de softwares
-e estou buscando sempre aprender e criar coisas novas.
+Meu nome é Celso Matias. Estou embarcando no mundo da tecnologia, tendo um grande interesse pela área de desenvolvimento de softwares,
+estou buscando sempre aprender e criar coisas novas.
 
 ## HABILIDADES
 - Linguagens: HTML, CSS, JavaScript e Python
